@@ -1,1 +1,14 @@
 В ветку demo не попали изменения из ветки hat.
+10 коммитов:
+init
+README added
+fix readme
+dots
+boots
+heat added
+merge remote origin/boots in boots_buttons
+merge remote origin/buttons in boots_buttons
+merge remote origin/hat in master
+merge boots_buttons in master
+Задание 2
+Задание 4
